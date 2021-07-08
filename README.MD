@@ -1,1 +1,1 @@
-This is Varun's first git project
+This is Varun's first git project.
